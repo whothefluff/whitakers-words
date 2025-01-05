@@ -1,0 +1,1870 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://mk270.github.io/whitakers-words/operational.html
+Subject: Whitaker's Words: Operational description
+Date: Sun, 5 Jan 2025 18:17:39 +0100
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--AvQhhXlkiJqq039YQGkmvsRUQynyI8b3jniWz1ut7d----"
+
+
+------MultipartBoundary--AvQhhXlkiJqq039YQGkmvsRUQynyI8b3jniWz1ut7d----
+Content-Type: text/html
+Content-ID: <frame-C4B2D3E5AECFB65144D9601AD812482D@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://mk270.github.io/whitakers-words/operational.html
+
+<!DOCTYPE html><html lang=3D"en" data-darkreader-mode=3D"dynamic" data-dark=
+reader-scheme=3D"dark" data-darkreader-proxy-injected=3D"true"><head><meta =
+http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><link re=
+l=3D"stylesheet" type=3D"text/css" href=3D"cid:css-4f1e377d-9862-49bf-98ab-=
+6a06f0b89991@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-1329b3ed-700b-4997-8c46-e26d69b4250e@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-3d89271b-876c-43d8-a421-0=
+69fa5d3d602@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-e5014141-8187-4f33-80e9-dc0d04dfc18d@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-48eb95b2-916f-4b78-9d14-f=
+3b7a13458ce@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-16db379a-65ce-4023-994b-323f2b652794@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-f4f0bedc-64ce-4ed3-8a37-a=
+22ae51b2365@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-808d204a-414f-4bfd-8524-847eb212ca3f@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-1409f188-b4c3-4e02-9185-2=
+f296efee7be@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-750ea215-e6ab-4327-b516-36f1ccff9ef7@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-e4ba77a7-8124-4478-94a7-2=
+2e5016b6089@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-fa68efef-8dac-46fc-8cf8-1ba4ee7deaf8@mhtml.blink" /><link rel=
+=3D"stylesheet" type=3D"text/css" href=3D"cid:css-24812bdb-1ae4-4cb2-bf86-1=
+95dbcde60e0@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-f971dd18-1452-4d45-b42d-3518c8c2847c@mhtml.blink" />
+ =20
+  <title>Whitaker's Words: Operational description</title>
+
+  <meta name=3D"author" content=3D"">
+  <meta name=3D"description" content=3D"William Whitaker's WORDS, a Latin d=
+ictionary">
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">
+
+  <link rel=3D"alternate" type=3D"application/rss+xml" href=3D"https://mk27=
+0.github.io/atom.xml">
+
+  <link rel=3D"stylesheet" type=3D"text/css" href=3D"https://mk270.github.i=
+o/whitakers-words/css/normalize.css" media=3D"screen">
+  <link href=3D"http://fonts.googleapis.com/css?family=3DOpen+Sans:400,700"=
+ rel=3D"stylesheet" type=3D"text/css">
+  <link rel=3D"stylesheet" type=3D"text/css" href=3D"https://mk270.github.i=
+o/whitakers-words/css/stylesheet.css" media=3D"screen">
+<meta name=3D"darkreader" content=3D"39738ba83c2643a299c51081e17eb250"></he=
+ad>
+
+<body>
+    <section class=3D"page-header">
+      <h1 class=3D"project-name">William Whitaker's Words</h1>
+      <h2 class=3D"project-tagline">A digital Latin-English dictionary</h2>
+      <a href=3D"https://latin-words.com/" class=3D"btn">WORDS Online</a>
+      <a href=3D"https://mk270.github.io/whitakers-words/index.html" class=
+=3D"btn">Overview</a>
+      <a href=3D"https://mk270.github.io/whitakers-words/installation.html"=
+ class=3D"btn">Download &amp; Install</a>
+      <a href=3D"https://mk270.github.io/whitakers-words/operational.html" =
+class=3D"btn">User Guide</a>
+      <a href=3D"https://mk270.github.io/whitakers-words/plan.html" class=
+=3D"btn">News &amp; Ongoing Work</a>
+    </section>
+
+
+<section class=3D"main-content">
+<p><a href=3D"https://mk270.github.io/whitakers-words/operational.html">Ope=
+rational Description</a> |
+<a href=3D"https://mk270.github.io/whitakers-words/programme.html">Programm=
+e Description</a> |
+<a href=3D"https://mk270.github.io/whitakers-words/dictionary.html">Diction=
+ary</a> |
+<a href=3D"https://mk270.github.io/whitakers-words/inflections.html">Inflec=
+tions</a> |
+<a href=3D"https://mk270.github.io/whitakers-words/english_to_latin.html">E=
+nglish to Latin</a> |
+<a href=3D"https://mk270.github.io/whitakers-words/user_modifications.html"=
+>User modifications</a></p>
+
+<h1 id=3D"operational-description">Operational description</h1>
+
+<p>This write up is rudimentary and assumes that the user is experienced wi=
+th
+computers, and as an example assumes a PC with a Windows OS.
+Other systems operate essentially the same.</p>
+
+<p>The WORDS program, Version 1.97E, with its accompanying data files shoul=
+d
+run on PC in Windows 95/98/NT, any monitor.  Simply download the
+self-extracting EXE file and execute it in your chosen subdirectory/folder =
+to
+UNZIP the files into a subdirectory of a hard disk.  Then call WORDS.</p>
+
+<p>There are a number of files associated with the program.  These must be =
+in
+the subdirectory/folder of the program, and the program must be run from th=
+at
+subdirectory.  <code class=3D"language-plaintext highlighter-rouge">WORDS.E=
+XE</code> is the executable program.  <code class=3D"language-plaintext hig=
+hlighter-rouge">INFLECT.SEC</code> holds the
+encoded inflection records.  <code class=3D"language-plaintext highlighter-=
+rouge">STEMFILE.GEN</code> contains the stems of the
+GENERAL dictionary in a searchable form.
+<code class=3D"language-plaintext highlighter-rouge">DICTFILE.GEN</code> is=
+ an indexed form of the GENERAL dictionary entries with form
+information and meanings.  <code class=3D"language-plaintext highlighter-ro=
+uge">INDXFILE.GEN</code> contains a set of indexes into the
+DICTFILE.  In some versions, there may be a set of files for a SPECIAL (.SP=
+E)
+dictionary of the same structure as the GENERAL dictionary, but there is
+no SPECIAL dictionary in the present distribution.  A LOCAL dictionary may
+also be used.  This is a limited dictionary of a different form, human
+readable and writeable.  The knowledgeable user can augment and modify it
+on-line.  It would consist of the file <code class=3D"language-plaintext hi=
+ghlighter-rouge">DICT.LOC</code>.  <code class=3D"language-plaintext highli=
+ghter-rouge">UNIQUES.LAT</code> contains
+certain words which regular processing does not get.  <code class=3D"langua=
+ge-plaintext highlighter-rouge">ADDONS.LAT</code> contains
+the set of prefixes, suffixes and enclitics (-que, -ve) and the like.
+Other files may be generated by the program, so run it in a configuration
+that allows the creation of files.</p>
+
+<p>All these files are necessary to run the program (except the optional
+dictionaries SPE and LOC).  This excess of files is a consequence of the
+present developmental nature of the program.  The files are very simple,
+almost human-readable.  Presumably, a later version could condense and
+encode them.  Nevertheless, beyond the original COPY, the user need not
+worry about them.</p>
+
+<p>Additionally, there are files that the program may produce on request.
+All of these share the name WORD, with various extensions, and they are
+all ASCII/DOS text files which can be viewed and processed with an ordinary
+editor.  The casual user may not want to get involved with
+these.  <code class=3D"language-plaintext highlighter-rouge">WORD.OUT</code=
+> will record the whole output, <code class=3D"language-plaintext highlight=
+er-rouge">WORD.UNK</code> will list only
+words the program is unable to interpret.  These outputs are turned on
+through the PARAMETERS mechanism.</p>
+
+<p>PARAMETERS may be changed while running the program by inputting a line
+containing a =E2=80=98#=E2=80=99 mark as the only (or first) character.  Al=
+ternatively,
+<code class=3D"language-plaintext highlighter-rouge">WORD.MOD</code> contai=
+ns the MODES that can be set by CHANGE_PARAMETERS.  If this
+file does not exist, default modes will be used.  The file may be produced
+or changed when changing parameters.  It can also be modified, if the user
+is sufficiently confident, with an editor, or deleted, thereby reverting
+to defaults.</p>
+
+<p>There is another set of developers parameters which may be set
+with the input of =E2=80=98!=E2=80=99.  These MODES may be changed and save=
+d in a
+file <code class=3D"language-plaintext highlighter-rouge">WORD.MDV</code>. =
+ These are not normal user facilities, probably no one but
+the developer would be interested.  In any specific release these
+facilities may, or may not, work.  They are just mentioned here in case
+they ever come up accidentally, and to point out that there are other
+capabilities, actual and possible, which may be invoked if there is a
+special need.  The user is invited to review these parameters to see
+if any address an unusual need.</p>
+
+<p><code class=3D"language-plaintext highlighter-rouge">WORD.OUT</code> is =
+the file produced if the user requests
+output to a file.  This output can be used for later manipulation with a
+text editor, especially when the input was a text file of some length.  If
+the parameter UNKNOWNS_ONLY is set, the output serves as a sort of a Latin
+spell checker.  Those words it cannot match may just not be in the
+dictionary, but alternatively they may be typos.  A <code class=3D"language=
+-plaintext highlighter-rouge">WORD.UNK</code> file of
+unknowns can be generated.</p>
+
+<h2 id=3D"program-operation">Program Operation</h2>
+
+<p>To start the program, in the subdirectory that contains all the files,
+type WORDS.  A setup procedure will execute, processing files.  Then the
+program will ask for a word to be keyed in.  Input the word and give a
+return (ENTER).  Information about the word will be displayed.</p>
+
+<p>One can input a whole line at a time, however long,
+but only one line since the return
+at the end of line will start the processing.  If the results would fill
+more than a computer screen, the output is halted until the user responds
+to the =E2=80=98MORE=E2=80=99 message with a return.  A file containing a t=
+ext, a series
+of lines, can be input by keying in the character =E2=80=98@=E2=80=99, foll=
+owed (with no
+spaces) by the DOS name of the file of text.  This input file need not be
+in the program subdirectory, just use the full path and name of the
+file.  This is usually accompanied with the setting of the parameter
+switches to create and write to an output file, <code class=3D"language-pla=
+intext highlighter-rouge">WORD.OUT</code>.</p>
+
+<p>One can have a comment in the file, a terminal portion of a line that is
+not parsed.  This could be an English meaning, a source where the word was
+found, an indication that it may have been miscopied, etc.  A comment
+begins with a double dash [=E2=80=93] and continues to the end of the line.=
+  The
+=E2=80=98=E2=80=93=E2=80=99 and everything after on that line is ignored by=
+ the program.</p>
+
+<p>A simple # character input at the start of a line (that is, a line
+containing only #) will permit the user to set modes to prevent the
+process from trying prefixes and suffixes to get a match on an item
+unknown to the dictionary, put output to a file, etc.  Going into the
+CHANGE_PARAMETERS, the =E2=80=98?=E2=80=99 character calls help for each en=
+try.</p>
+
+<p>Another set of parameters is invoked by the character !.  These develope=
+r parameters
+are fairly specialized and are probably not required by the average user,
+nevertheless they are available for special applications.</p>
+
+<p>Two successive returns with no text will terminate the program (except i=
+n
+text being read from an @ disk file.)</p>
+
+<h2 id=3D"modes-of-operation">Modes of Operation</h2>
+
+<p>The mode of operation of WORDS can be specialized by setting some combin=
+ation
+of available parameters.  Here are a couple of example situations.</p>
+
+<p>If you want only meanings to show up, set the # parameter
+<br>
+DO_ONLY_MEANINGS =3D&gt; Yes
+<br>
+If you do not even want to see the dictionary form (principle parts) set</p=
+>
+<h1 id=3D"parameter">parameter</h1>
+<p><br>
+DO_DICTIONARY_FORM =3D&gt; No
+<br>
+If you want to accept only the dictionary entry (amo, but not amas), set
+the ! parameter (this is the tricky one, requiring two parameters set)
+<br>
+DO_ONLY_INITIAL_WORD =3D&gt; Yes
+<br>
+This will ten require you to input one entry per line, which is not
+unreasonable for a dictionary look-up process.  Then you will be offered
+another, otherwise unavailable, option
+<br>
+FOR_WORD_LIST_CHECK =3D&gt; Yes
+<br>
+There are a large number of other options.  The user is invited
+to consider all the options if needing anything more than the basic parse.<=
+/p>
+
+<p>Of course, for both sets of parameters, you will want to go to the end
+of the parameter setting menu and save this set so you can restart with
+the same situation.</p>
+
+<h2 id=3D"command-line-operation">Command Line Operation</h2>
+
+<p>The main mode of usage for WORDS is a simple call, followed by screen in=
+teraction.</p>
+
+<p>But there are other, command line, options.
+WORDS may be called with arguments on the same line, in a number of differe=
+nt modes.
+The program will execute with these arguments as input.
+Remember that the saved parameter settings (in <code class=3D"language-plai=
+ntext highlighter-rouge">WORD.MOD</code> and <code class=3D"language-plaint=
+ext highlighter-rouge">WORD.MDV</code>)
+are controlling, even for command line input.</p>
+
+<p>Single argument, either a simple Latin word or an input file.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>WORDS amo
+</code></pre></div></div>
+
+<p><br>which will cause it to execute for that input and then terminate.  T=
+his is
+for a quick word.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>WORDS infile
+</code></pre></div></div>
+
+<p><br>causes WORDS to execute with the contents of the infile.
+The infile may be from any folder if the full path name is given.</p>
+
+<p>With two arguments the options are: inputfile and outputfile,
+two Latin words, or a language shift to English (Latin being the startup de=
+fault)
+and an English  word (with no part of speech).</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>WORDS infile outfile
+</code></pre></div></div>
+
+<p><br>The program will read as input the INFILE and write
+the output to the OUTFILE (as though it were <code class=3D"language-plaint=
+ext highlighter-rouge">WORD.OUT</code>).  It will then
+await further input from the user.  It terminates with a return.  If the
+parameters are not legal file names, the program will assume they are
+Latin words to be processed as command line input.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>WORDS amo amas
+
+
+WORDS ~e  love
+</code></pre></div></div>
+
+<p><br>switches to English input from the default Latin and searches for lo=
+ve.</p>
+
+<p>With three arguments there could be three Latin words or a language shif=
+t
+and and English word and part of speech.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>WORDS amo amas amat
+
+
+WORDS ~e love v
+</code></pre></div></div>
+
+<p>More than three arguments must all be Latin words.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>WORDS amo amas amat amamus amatis amant
+</code></pre></div></div>
+
+<p>There cannot be more than one English word in the argument list,
+since there can only be one English word per line for WORDS input.</p>
+
+<p>An input file (either from interactive with @ or from command line)
+can have changes of language, but the ~E or ~L must be on a separate line.
+Note that this capability can create confusing situations.
+An input file that starts off Latin then switches to English will be
+correctly processed.  But if it is followed by a similar input file, the
+second file will start off English (from the setting in the earlier file) a=
+nd fail
+on the Latin input.  Thus even submitting the same file twice in a run
+will give different results.  This problem can be alleviated by starting ea=
+ch
+input file with an explicit language instruction, but this will not normall=
+y be
+the situation.</p>
+
+<h2 id=3D"latin-to-english-examples">Latin-to-English Examples</h2>
+
+<p>Following are annotated examples of output.  Examination of these will
+give a good idea of the system.  The present version may not match these
+examples exactly - things are changing - but the principle is there.  A
+recent modification is the output of dictionary forms or =E2=80=98principal=
+ parts=E2=80=99
+(shown below for some examples).</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>=3D&gt;agricolarum
+agricol.arum         N      1 1 GEN P M
+agricola, agricolae  N    M   [XAXBO]
+farmer, cultivator, gardener, agriculturist; plowman, countryman, peasant;
+</code></pre></div></div>
+
+<p>This is a simple first declension noun, and a unique interpretation.  Th=
+e
+=E2=80=981 1=E2=80=99 means it is first declension, with variant 1. This is=
+ an internal
+coding of the program, and may not correspond exactly with the grammatical
+numbering.  The =E2=80=98N=E2=80=99 means it is a noun.  It is the form for=
+ genitive
+(GEN), plural (=E2=80=98P=E2=80=99).  The stem is masculine (M).
+The stem is given as =E2=80=98agricol=E2=80=99 and the ending is
+=E2=80=98arum=E2=80=99.  The stem is normal in this case, but is a product =
+of the program,
+and may not always correspond to conventional usage.</p>
+
+<p>On the next line is given the expansion of the form that one might find
+in a paper dictionary, the nominative and genitive (agricola, agricolae).
+The [XAXBO] is an internal code of the program and is documented below as D=
+ictionary Codes.
+Several codes are associated with each dictionary entry (presently AGE, ARE=
+A, GEO, FREQ, SOURCE).
+These provide some information to enhance the interpretation of the diction=
+ary entry.
+In this case, the interesting piece is the B, which signifies
+that this word is found frequently in texts, in the top 10 percent.
+The O says it has been verified in the Oxford Latin Dictionary.
+The A says it is an agricultural word.</p>
+
+<p>The declension/conjugation numbers for nouns and verbs are
+essentially arbitrary (but will be familiar to Latin students).
+The variants are complete inventions.
+They have no real meaning, just codes for the program.</p>
+
+<p>(In the case of adjectives, they are even more arbitrary,
+although a Latin student might see how I came by them.
+Again they are only codes for the program.
+The initial release of the program did not put these out,
+but there is some interest on the part of students, so they are now include=
+d.
+The user may ignore them altogether.
+There is no relation between the declension/variant codes of a noun
+and the accompanying adjective.
+They only agree in case, number, and gender (NOM S N),
+which are listed in the output.)</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>=3D&gt;feminae
+femin.ae             N      1 1 GEN S F
+femin.ae             N      1 1 DAT S F
+femin.ae             N      1 1 NOM P F
+femin.ae             N      1 1 VOC P F
+femina, feminae  N    F   [XXXAX]
+woman; female;
+</code></pre></div></div>
+
+<p>This word has several possible interpretations in case and number
+(Singular and Plural).  The gender is Feminine.  Presumably, the user can
+examine the adjoining words and reduce the set of possibilities.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>=3D&gt;cornu
+corn.u               N      4 1 ABL S F
+cornus, cornus  N    F   [XXXCO]
+cornel-cherry-tree (Cornus mas); cornel wood; javelin (of cornel wood);
+corn.u               N      4 2 NOM S N
+corn.u               N      4 2 DAT S N
+corn.u               N      4 2 ABL S N
+corn.u               N      4 2 ACC S N
+cornu, cornus  N    N   [XXXAO]
+horn; hoof; beak/tusk/claw; bow; horn/trumpet; end, wing of army; mountain =
+top;
+*
+</code></pre></div></div>
+
+<p>Here is an example of another declension and two variants.  The
+Masculine (and few Feminine) (-us) nouns of the declension are =E2=80=984 1=
+=E2=80=99 and the Neuter
+(-u) nouns are coded as =E2=80=984 2=E2=80=99.  This word has both.
+The horn parse is very frequent (A), while the cornel option (C) is
+less so but still common.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>=3D&gt;ego
+ego                  PRON   5 1 NOM S C
+ [XXXAX]
+I, me; myself;
+</code></pre></div></div>
+
+<p>A pronoun is much like a noun.  The gender is common (C), that is, it ma=
+y
+be masculine or feminine.  For some odd words, especially including pronoun=
+s,
+there is no dictionary form given.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>=3D&gt;illud
+ill.ud               PRON   6 1 NOM S N
+ill.ud               PRON   6 1 ACC S N
+ille, illa, illud  PRON   [XXXAX]
+that; those (pl.); also DEMONST; that person/thing; the well known; the for=
+mer;
+*
+</code></pre></div></div>
+
+<p>The asterisk means that there are other, less probable forms which have =
+been
+trimmed, but which may be recovered by running with the TRIM parameter rese=
+t.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>=3D&gt;hic
+h.ic                 PRON   3 1 NOM S M
+hic, haec, hoc  PRON   [XXXAX]
+this; these (pl.); also DEMONST;
+hic                  ADV    POS
+hic                 ADV   [XXXCX]
+here, in this place; in the present circumstances;
+</code></pre></div></div>
+
+<p>In this case there is a adjectival/demonstrative pronoun, or it may be a=
+n
+adverb.  The POS means that the comparison of the adverb is positive.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>=3D&gt;bonum
+bon.um               N      2 1 ACC S M
+bonus, boni  N    M   [XXXCO]
+good/moral/honest/brave man; man of honor, gentleman; better/rich people (p=
+l.);
+bon.um               N      2 2 NOM S N
+bon.um               N      2 2 ACC S N
+bonum, boni  N    N   [XXXAO]
+good, good thing, profit, advantage; goods (pl.), possessions, wealth, esta=
+te;
+bon.um               ADJ    1 1 NOM S N POS
+bon.um               ADJ    1 1 ACC S M POS
+bon.um               ADJ    1 1 ACC S N POS
+bonus, bona -um, melior -or -us, optimus -a -um  ADJ   [XXXAO]
+good, honest, brave, noble, kind, pleasant, right, useful; valid; healthy;
+*
+</code></pre></div></div>
+
+<p>Here we have an adjective, but it might also be a noun.  The
+interpretation of the adjective says that it is POSitive, and that
+is the meaning listed, as is the convention for all dictionaries.
+The user must generate form this the meanings for other comparisons.
+Check the comparison value before deciding on the real meaning.
+Again, there is an asterisk, indicating further inflected forms were trimme=
+d out.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>=3D&gt;facile
+facil.e              ADJ    3 2 NOM S N POS
+facil.e              ADJ    3 2 ABL S X POS
+facil.e              ADJ    3 2 ACC S N POS
+facilis, facile, facilior -or -us, facillimus -a -um  ADJ   [XXXAX]
+easy, easy to do, without difficulty, ready, quick, good natured, courteous=
+;
+facile               ADV    POS
+facile, facilius, facillime  ADV   [XXXBO]
+easily, readily, without difficulty; generally, often; willingly; heedlessl=
+y;
+*
+</code></pre></div></div>
+
+<p>Here is an adjective or and adverb.  Although they are related in meanin=
+g,
+they are different words.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>=3D&gt;acerrimus
+acerri.mus           ADJ    3 3 NOM S M SUPER
+acer, acris -e, acrior -or -us, acerrimus -a -um  ADJ   [XXXAO]
+sharp, bitter, pointed, piercing, shrill; sagacious, keen; severe, vigorous=
+;
+</code></pre></div></div>
+
+<p>Here we have an adjective in the SUPERlative.  The meanings are all
+POSitive and the user must add the -est by himself.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>=3D&gt;optime
+optime               ADV    SUPER
+bene, melius, optime  ADV   [XXXAO]
+well, very, quite, rightly, agreeably, cheaply, in good style; better; best=
+;
+opti.me              ADJ    1 1 VOC S M SUPER
+bonus, bona -um, melior -or -us, optimus -a -um  ADJ   [XXXAO]
+good, honest, brave, noble, kind, pleasant, right, useful; valid; healthy;
+</code></pre></div></div>
+
+<p>Here is an adjective or and adverb, both are SUPERlative.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>=3D&gt;monuissemus
+monu.issemus         V      2 1 PLUP ACTIVE  SUB 1 P
+moneo, monere, monui, monitus  V   [XXXAX]
+remind, advise, warn; teach; admonish; foretell, presage;
+</code></pre></div></div>
+
+<p>Here is a verb for which the form is PLUPerfect, ACTIVE, SUBjunctive, 1s=
+t
+person, Plural.  It is 2nd conjugation, variant 1.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>=3D&gt;amat
+am.at                V      1 1 PRES ACTIVE  IND 3 S
+amo, amare, amavi, amatus  V   [XXXAO]
+love, like; fall in love with; be fond of; have a tendency to;
+</code></pre></div></div>
+
+<p>Another regular verb, PRESent, ACTIVE, INDicative.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>=3D&gt;amatus
+amat.us              VPAR   1 1 NOM S M PERF PASSIVE PPL
+amo, amare, amavi, amatus  V   [XXXAO]
+love, like; fall in love with; be fond of; have a tendency to;
+amat.us              ADJ    1 1 NOM S M POS
+amatus, amata, amatum  ADJ   [XXXEO]    uncommon
+loved, beloved;
+</code></pre></div></div>
+
+<p>Here we have the PERFect, PASSIVE ParticiPLe, in the NOMinative, Singula=
+r,
+Masculine.   In addition, there is the ADJective that is formed from
+this participle.  If the ADJective is common, it will likely have its own
+dictionary entry.  Sometimes there may be a special or idiomatic meaning
+not obvious from the verb, or the meaning may stray from the original.
+In this case, the verb is very frequent, but the use as a adjective is unco=
+mmon.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>=3D&gt;amatu
+amat.u               SUPINE 1 1 ABL S N
+amo, amare, amavi, amatus  V   [XXXAO]
+love, like; fall in love with; be fond of; have a tendency to;
+</code></pre></div></div>
+
+<p>Here is the SUPINE of the verb in the ABLative Singular.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>=3D&gt;orietur
+ori.etur             V      4 1 FUT          IND 3 S
+orior, oriri, oritus sum  V    DEP   [XXXAO]
+rise (sun/river); arise/emerge, crop up; get up (wake); begin; originate fr=
+om;
+be born/created; be born of, descend/spring from; proceed/be derived (from)=
+;
+ori.etur             V      3 1 FUT          IND 3 S
+orior, ori, ortus sum  V    DEP   [XXXBO]
+rise (sun/river); arise/emerge, crop up; get up (wake); begin; originate fr=
+om;
+be born/created; be born of, descend/spring from; proceed/be derived (from)=
+;
+</code></pre></div></div>
+
+<p>For DEPondent verbs the passive form is to be translated as if it were
+active voice, so there is no VOICE given in the output.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>=3D&gt;ab
+ab                   PREP   ABL
+ab  PREP  ABL   [XXXAO]
+by (agent), from (departure, cause, remote origin/time); after (reference);
+</code></pre></div></div>
+
+<p>Here is a PREPosition that takes an ABLative for an object.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>=3D&gt;sine
+sin.e                N      2 2 NOM P N
+sin.e                N      2 2 ACC P N
+sinum, sini  N    N   [XXXCX]
+bowl for serving wine, etc;
+sin.e                V      3 1 PRES ACTIVE  IMP 2 S
+sino, sinere, sivi, situs  V   [XXXAX]
+allow, permit;
+sine                 PREP   ABL
+sine  PREP  ABL   [XXXAX]
+without;
+*
+</code></pre></div></div>
+
+<p>Here is a PREPosition that might also be a Verb or a Noun.
+While as a preposition it is so common that it is unlikely
+that any other use would occur, there is no way to indicate that.
+Just be reminded that the frequency given for a verb is for the
+sum of all the couple of hundred forms of the verb, not just
+the one form that is parsed.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>=3D&gt;contra
+contra               ADV    POS
+contra              ADV   [XXXAO]
+facing, face-to-face, in the eyes; towards/up to; across; in opposite direc=
+tion;
+against, opposite, opposed/hostile/contrary/in reply to; directly over/leve=
+l;
+otherwise, differently; conversely; on the contrary; vice versa;
+contra               PREP   ACC
+contra  PREP  ACC   [XXXAO]
+against, facing, opposite; weighed against; as against; in resistance/reply=
+ to;
+contrary to, not in conformance with; the reverse of; otherwise than;
+towards/up to, in direction of;  directly over/level with; to detriment of;
+</code></pre></div></div>
+
+<p>Here is a PREPosition that might also be an ADVerb.  This is a very comm=
+on
+situation, with the meanings being much the same.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>=3D&gt;et
+et                   CONJ
+et                  CONJ   [XXXAX]
+and, and even; also, even;  (et ... et =3D both ... and);
+</code></pre></div></div>
+
+<p>Here is a straight CONJunction.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>=3D&gt;vae
+vae                  INTERJ
+vae                 INTERJ   [XXXBX]
+alas, woe, ah; oh dear;  (Vae, puto deus fio - Vespasian); Bah!, Curses!;
+</code></pre></div></div>
+
+<p>Here is a straight INTERJection.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>=3D&gt;septem
+septem               NUM    2 0 X   X X CARD
+septem, septimus -a -um, septeni -ae -a, septie(n)s  NUM   [XXXAX]
+ 7 - (CARD answers 'how many');
+</code></pre></div></div>
+
+<p>Numbers are recognized as such and given a value.
+An additional provision is the attempt to recognize and display the value
+of Roman numerals, even combinations of appropriate letters that do not
+parse conventionally to a value but may be ill-formed Roman numerals.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>=3D&gt;VII
+VII                  NUM    2 0 X   X X CARD
+7  as a ROMAN NUMERAL;
+</code></pre></div></div>
+
+<p>Beyond simple dictionary entry words, the program
+can construct additional words with prefixes, suffixes and other ADDONS.</p=
+>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>=3D&gt;populusque
+que                  TACKON
+-que =3D and (enclitic, translated before attached word); completes plerus/=
+uter;
+popul.us             N      2 1 NOM S M
+populus, populi  N    M   [XXXAO]
+people, nation, State; public/populace/multitude/crowd; a following;
+members of a society/sex; region/district (L+S); army (Bee);
+</code></pre></div></div>
+
+<p>Here the input word is recognized as a combination of a base word
+and an enclitic (-que) tacked on.  This particular enclitic is
+extremely common and its omission, or the omission of the process
+that handles it, would result in an very large number of UNKNOWNs
+in the output.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>=3D&gt;pseudochristus
+pseudo               PREFIX
+false, fallacious, deceitful; sperious; imitation of;
+christ.us            N      2 1 NOM S M
+Christus, Christi  N    M   [XEXAO]
+Christ;
+</code></pre></div></div>
+
+<p>Here there is a prefix and a base.  The user must make the combination
+into a word or phrase.</p>
+
+<p>Generally, the meaning is given for the base word, as is usual for
+dictionaries.  For the verb, it will be a present meaning, even when the
+tense given is perfect.  For a noun, it will be the singular, and the user
+must interpret when the form is plural.</p>
+
+<p>For an adjective, the positive meaning is given,
+even if a comparative or superlative form is output.
+The user is invited to expand to
+comparative (-er) and superlative (-est).
+For a few adjectives, the only stem in the dictionary is COMP or SUPER.
+When there is just one comparison,
+the WORDS dictionary gives that expanded meaning.
+This might be considered inconsistent,
+in that it expects the user to observe the FORM to interpret the meaning,
+but it is consistent with ordinary dictionary practice.</p>
+
+<p>Initially there were more defective adjective entries.
+I had accepted assertions in OLD or L+S and others like
+=E2=80=98comparative does not exist=E2=80=99.
+Later on I went over to the position that
+even if Cicero did not use it, someone might.
+I started generating COMP and SUPER where it seemed reasonable.
+One can also count on a suffix to correct most omissions, and it will.</p>
+
+<p>Sometimes a word is constructed from a suffix and a stem of a different
+part of speech.
+Thus an adverb may be constructed from its adjective.
+It will show the base adjective meaning and an indication of how to
+make the adverb in English.  The user must make the proper interpretation.<=
+/p>
+
+<p>In some cases an adjective will be found that is a participle of a verb
+that is also found.  The participle meaning, as inferred by the user from
+the verb meaning, is not superseded by the explicit adjective entry, but
+supplemented by it with possible specialized meanings.</p>
+
+<h2 id=3D"english-to-latin-examples">English-to-Latin Examples</h2>
+
+<p>~E (tilde E/e plus Enter/CR)
+changes mode from Latin-to-English to English-to-Latin.  ~L changes back.</=
+p>
+
+<p>A single input English word is followed by the desired part of speech.
+Omitting the part of speech defaults to all, which is not recommended
+for any word which can be ambiguous.  Since the program is looking for a
+part of speech, it would be inconvenient to support the input of several
+English words on a line.  While a (@) file of words can be processed in the
+English mode, it must be one word per line.</p>
+
+<p>Output looks much like a paper dictionary entry, with form, part of spee=
+ch,
+gender, etc.  Also included are the WORDS coded declension/conjugation and =
+the
+TRANS flags, which give age, frequency and source, information for the user
+in selecting the best translation.  The output may also contain a vertical =
+bar
+leading the meaning.  This is a continuation symbol which states that there
+are other meanings for the Latin word.  The user might want to run the Lati=
+n
+phase of WORDS to get the full set of meanings so that no unintended confli=
+cts
+appear.</p>
+
+<div class=3D"language-plaintext highlighter-rouge"><div class=3D"highlight=
+"><pre class=3D"highlight"><code>love v
+
+amo, amare, amavi, amatus  V     1 1 [XXXAO]
+love, like; fall in love with; be fond of; have a tendency to;
+
+diligo, diligere, dilexi, dilectus  V     3 1 [XXXAX]
+select, pick, single out; love, value, esteem; approve, aspire to, apprecia=
+te;
+
+amo, amare, additional, forms  V     9 1 [BXXEO]
+love, like; fall in love with; be fond of; have a tendency to;
+
+ardeo, ardere, arsi, arsus  V     2 1 [XXXAO]
+be on fire; burn, blaze; flash; glow, sparkle; rage; be in a turmoil/love;
+
+adamo, adamare, adamavi, adamatus  V     1 1  TRANS   [XXXBO]
+fall in love/lust with; love passionately/adulterously; admire greatly; cov=
+et;
+
+deamo, deamare, deamavi, deamatus  V     1 1  TRANS   [XXXCO]
+love dearly; be passionately/desperately in love with; be delighted with/ob=
+liged
+*
+
+in prep
+
+in  PREP  ABL    [XXXAX]
+in, on, at (space); in accordance with/regard to/the case of; within (time)=
+;
+
+ante  PREP  ACC    [XXXAO]
+in front/presence of, in view; before (space/time/degree); over against, fa=
+cing;
+
+super  PREP  ABL    [XXXAX]
+over (space), above, upon, in addition to; during (time); concerning; beyon=
+d;
+
+in  PREP  ACC    [XXXAX]
+into; about, in the mist of; according to, after (manner); for; to, among;
+
+prae  PREP  ABL    [XXXAX]
+before, in front; in view of, because of;
+
+praeter  PREP  ACC    [XXXAX]
+besides, except, contrary to; beyond (rank), in front of, before; more than=
+;
+*
+
+in
+
+intro               ADV    [XXXAX]
+within, in; to the inside, indoors;
+
+in  PREP  ABL    [XXXAX]
+in, on, at (space); in accordance with/regard to/the case of; within (time)=
+;
+
+gener, generi  N     2 3  M   [XXXBX]
+son-in-law;
+
+baro, baronis  N     3 1  M   [XXXBL]
+baron; magnate; tenant-in-chief (of crown/earl); burgess; official; husband=
+;
+
+sororius, sorori(i)  N     2 4  M   [XXXCX]
+sister's husband, brother-in-law;
+
+socrus, socrus  N     4 1  M   [XXXCX]
+father-in-law; spouse's grandfather/great grandfather;
+*
+
+kill v
+
+occido, occidere, occidi, occisus  V     3 1 [XXXAX]
+kill, murder, slaughter, slay; cut/knock down; weary, be the death/ruin of;
+
+interficio, interficere, interfeci, interfectus  V     3 1 [XWXAX]
+kill; destroy;
+
+consumo, consumere, consumpsi, consumptus  V     3 1  TRANS   [XXXAO]
+burn up, destroy/kill; put end to; reduce/wear away; annul; extinguish (rig=
+ht);
+
+perago, peragere, peregi, peractus  V     3 1 [XXXAX]
+disturb; finish; kill; carry through to the end, complete;
+
+dejicio, dejicere, dejeci, dejectus  V     3 1  TRANS   [XXXAS]
+|overthrow, bring down, depose; kill, destroy; shoot/strike down; fell (vic=
+tim);
+
+deicio, deicere, dejeci, dejectus  V     3 1  TRANS   [XXXAO]
+|overthrow, bring down, depose; kill, destroy; shoot/strike down; fell (vic=
+tim);
+*
+
+death n
+
+mors, mortis  N     3 3  F   [XXXAX]
+death; corpse; annihilation;
+
+fatum, fati  N     2 2  N   [XPXAX]
+utterance, oracle; fate, destiny; natural term of life; doom, death, calami=
+ty;
+
+funus, funeris  N     3 2  N   [XXXAX]
+burial, funeral; funeral rites; ruin; corpse; death;
+
+nex, necis  N     3 1  F   [XXXBX]
+death; murder;
+
+letum, leti  N     2 2  N   [XXXBX]
+death, ruin, annihilation; death and destruction;
+
+Orcus, Orci  N     2 1  M   [XXXBX]
+god of the underworld, Dis; death; the underworld;
+*
+
+destruction n
+
+cinis, cineris  N     3 1  C   [XXXAO]
+ashes; embers, spent love/hate; ruin, destruction; the grave/dead, crematio=
+n;
+
+pestis, pestis  N     3 3  F   [XXXBX]
+plague, pestilence, curse, destruction;
+
+exitium, exiti(i)  N     2 4  N   [XXXBX]
+destruction, ruin; death; mischief;
+
+ruina, ruinae  N     1 1  F   [XXXBX]
+fall; catastrophe; collapse, destruction;
+
+interitus, interitus  N     4 1  M   [XXXBX]
+ruin; violent/untimely death, extinction; destruction, dissolution;
+
+excidium, excidi(i)  N     2 4  N   [XXXCX]
+ruin, destruction, military destruction; overthrow;
+*
+</code></pre></div></div>
+
+<p>While six prioritized translations may seem like enough,
+and they will likely cover the needs of a student, the full set
+(setting # parameter to not TRIM) contains much valuable information
+for the advanced translator.  For instance for the verb live vivo
+usually works, but there are other options associated with specific
+situations: cohabito means live together, ruror means live in the country,
+adjaceo means live near, judaizo means live in the Jewish manner keeping th=
+e law.
+These sorts of meanings are often conveyed in Latin by a single word,
+while in English one might just use live and a modifying word or phrase.</p=
+>
+
+<h2 id=3D"design-of-the-meaning-line">Design of the Meaning Line</h2>
+
+<p>The role and complexity of the WORDS meaning line has evolved over time.
+Initially it reflected an elementary, back-of-the-book,  textbook dictionar=
+y
+with a single word or two for each entry.
+Nevertheless, the size of the MEAN element was set at 80 characters
+(as God, Holerith and IBM decreed),
+as appropriate for a standard computer screen in text mode.
+(Depending on the system and mode of display, the output
+may be limited to 78 or 79 characters, but the traditional 80
+characters of the century-old IBM card was chosen.
+They will likely appear on printed output.)</p>
+
+<p>With expansion of the dictionary beyond a few thousand elementary entrie=
+s
+and the extensive inclusion of the Oxford dictionaries,
+a much larger set of possible interpretations surfaced for many words,
+filling and exceeding the 80 character limit.
+A certain discipline was introduced to structure the line.</p>
+
+<p>Through the many phases of development of the
+dictionary, standards were developed and modified and
+rigor was not always maintained, therefore the rules
+below are generally, but not universally, observed.
+Evolution of the dictionary is bringing it more closely
+in line with these rules.</p>
+
+<p>A decision was made to include as many meanings and synonyms as
+convenient.  The OLD will sometimes list a dozen or more meaning
+groups with notably different senses, each with several similar meanings.
+Presumably these different meanings were the product of different
+translations of the Latin word, different translators,
+different context, and different eras.
+The WORDS dictionary includes many of these synonyms, and specifically adds
+some more modern ones, in order to give the user inspiration
+for his translation.
+Further, it is important to give the user the full flavor of the word
+that various translations employ.  A word with a nominal meaning of
+respect may be found to also mean fear (which may be the basis of all
+respect for the Romans), and that will certainly color the interpretation
+of a passage.
+Going the other way, one might not want to
+apply it to a description of Mother Teressa.
+Also one should be warned if an otherwise simple word also is used as a rud=
+e
+reference to female anatomy.</p>
+
+<p>There are a couple of other factors that may influence the user in deter=
+mining
+the appropriate meaning from the list.  Some words have different meanings =
+depending
+on the age.  If one is reading a text written recently in modern Latin, one=
+ must
+consider hints about the meaning.  While the classical meaning, the WORDS d=
+efault,
+may be appropriate, if there is a line with a late AGE code or an indicatio=
+n
+of a modern dictionary source (e.g,. Cal), the user should take this into c=
+onsideration.</p>
+
+<h3 id=3D"signs-and-abbreviations-in-meaning">Signs and Abbreviations in Me=
+aning</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sign</th>
+      <th>Description</th>
+      <th>Meaning</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>,</td>
+      <td>comma</td>
+      <td>is used to separate meanings that are similar.  The philosophy ha=
+s been to list a number of synonyms just to key the reader in making his tr=
+anslation.</td>
+    </tr>
+    <tr>
+      <td>;</td>
+      <td>semicolon</td>
+      <td>is used to separate sets of meanings that differ in intent. This =
+is just a general tendency and is not always rigorously enforced.</td>
+    </tr>
+    <tr>
+      <td>:</td>
+      <td>colon</td>
+      <td>is used with an AREA code to specify a single special meaning app=
+ropriate for that AREA in a series of general meanings.  For example, L: ha=
+s the same impact as (legal) before or after a definition in meaning. This =
+supplements the use of the AREA code in the set of flags, which implies tha=
+t all or most of the meanings are associated with that area.</td>
+    </tr>
+    <tr>
+      <td>/</td>
+      <td>solidus</td>
+      <td>means =E2=80=98or=E2=80=99 or gives an alternative word.  It some=
+times replaces the comma and is often used to compress the meaning into a s=
+hort line.</td>
+    </tr>
+    <tr>
+      <td>(=E2=80=A6)</td>
+      <td>parentheses</td>
+      <td>set off and optional word or modifier, e.g., =E2=80=98(nearly) wh=
+ite=E2=80=99 means =E2=80=98white=E2=80=99 or =E2=80=98nearly white=E2=80=
+=99, (matter in) dispute means either the matter in dispute or the dispute =
+itself.  They are also used to set off an explanation, further information =
+about the word or meaning, or an example of a translation or a word combina=
+tion.</td>
+    </tr>
+    <tr>
+      <td>?</td>
+      <td>question mark</td>
+      <td>in a meaning implies a doubt about the interpretation, or even ab=
+out the existence of the word at all.  For the purposes of this program, it=
+ does not matter much.  If the dubious word does not exist, no one will ask=
+ for it.  If it appears in his text, the reader is warned that the interpre=
+tation may be questionable to some degree, but is what is available.  May i=
+ndicate somewhat more doubt than (perh.).</td>
+    </tr>
+    <tr>
+      <td>~</td>
+      <td>tilde</td>
+      <td>stands for the stem or word in question.  Usually it does not hav=
+e an ending affixed, as is the convention in other dictionaries, but repres=
+ents the word with whatever ending is proper.  It is just a space saving sh=
+orthand or abbreviation.</td>
+    </tr>
+    <tr>
+      <td>~</td>
+      <td>tilde</td>
+      <td>also is the flag for changing the language base.  ~E (plus Enter/=
+CR) changes from Latin-to-English to English-to-Latin.  ~L changes back.</t=
+d>
+    </tr>
+    <tr>
+      <td>=3D&gt;</td>
+      <td>&nbsp;</td>
+      <td>in meaning this indicates a translation example.</td>
+    </tr>
+    <tr>
+      <td>abb.</td>
+      <td>&nbsp;</td>
+      <td>abbreviation</td>
+    </tr>
+    <tr>
+      <td>(Dif) -</td>
+      <td>Diferrari</td>
+      <td>is used to indicate an additional meaning taken from A Latin-Engl=
+ish Dictionary of St. Thomas Aquinas by Roy J. Diferrari.  This is singled =
+out because of the importance of Aquinas.  The reference is to be applied f=
+rom the last semicolon before the mark.  It is likely that the meaning dive=
+rges from the base by being medieval and ecclesiastical, but not so overwhe=
+lming as to deserve a separate entry.</td>
+    </tr>
+    <tr>
+      <td>(Douay)</td>
+      <td>&nbsp;</td>
+      <td>is used to designate those words for which the meaning has been d=
+erived or modified by examination of the Douay translation of the Latin Vul=
+gate Bible of St Jerome.</td>
+    </tr>
+    <tr>
+      <td>(eccl.)</td>
+      <td>ecclesiastical</td>
+      <td>designating a special church meaning in a list of conventional me=
+anings, an additional meaning not sufficient to justify a separate entry wi=
+th an ecclesiastical code.</td>
+    </tr>
+    <tr>
+      <td>esp.</td>
+      <td>especially</td>
+      <td>indicates a significant association, but is only advisory.</td>
+    </tr>
+    <tr>
+      <td>(King James)</td>
+      <td>&nbsp;</td>
+      <td>is used to designate those words for which the meaning has been d=
+erived or modified by examination of the King James Bible in connection wit=
+h the Latin Vulgate Bible of St Jerome; may also appear as (KJames)</td>
+    </tr>
+    <tr>
+      <td>(KLUDGE)</td>
+      <td>&nbsp;</td>
+      <td>This indicates that the particular form is distorted in order to =
+make it come out correctly.  This usually takes the form of a special conju=
+gational form applied to a few words, not applicable to other words of the =
+same conjugation or declension.  The user can expect the form and meaning t=
+o be correct, but the numerical coding will be odd.</td>
+    </tr>
+    <tr>
+      <td>(L+S)</td>
+      <td>Lewis &amp; Short</td>
+      <td>is used to indicate that the meaning starting from the previous s=
+emicolon is information from Lewis and Short =E2=80=98A Latin Dictionary=E2=
+=80=99 that differs from, or significantly expands on, the meaning in the =
+=E2=80=98Oxford Latin Dictionary=E2=80=99 (OLD) which is the baseline for t=
+his program.  This is not to imply that the meaning listed is otherwise tak=
+en directly from the OLD, just that it is not inconsistent with OLD, but th=
+e L+S information either inconsistent (likely OLD knows better) or Lewis an=
+d Short has included meanings appropriate for late Latin writers beyond the=
+ scope of OLD.  The program is just warning the reader that there may be so=
+me difference.  There are cases in which this indication occurs in entries =
+that have Lewis and Short as the source.  In those cases, the basic word is=
+ in OLD but the entry is a variant form or spelling not cited there.  There=
+ are cases where OLD and L+S give somewhat different spellings and meanings=
+ for the =E2=80=98same=E2=80=99 word (same in the sense that both dictionar=
+ies point to the same citation).  In these cases a combination of meanings =
+are given for both entries with the (L+S) code distinction and the entries =
+of different spelling or declension have the SOURCE coded.</td>
+    </tr>
+    <tr>
+      <td>NT</td>
+      <td>New Testament</td>
+      <td>is a reference in the Bible.</td>
+    </tr>
+    <tr>
+      <td>(OLD)</td>
+      <td>Oxford Latin Dictionary</td>
+      <td>is used to indicate an additional meaning taken from the Oxford L=
+atin Dictionary in an entry that is otherwise attributed.  While it is usua=
+lly true that if a classical word has other than OLD as the listed source t=
+hen it does not appear in that form in OLD, this is not always the case.  O=
+n occasion some other dictionary gives a much better or more complete and u=
+nderstandable definition and the honor of source is thereto given.</td>
+    </tr>
+    <tr>
+      <td>OT</td>
+      <td>Old Testament</td>
+      <td>is a reference in the Bible.</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Other source indicators are occasionally used and are indicated
+in the general description of SOURCE below.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Sign</th>
+      <th>Description</th>
+      <th>Meaning</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>(PASS)</td>
+      <td>passive</td>
+      <td>indicates a special, unexpected meaning for the passive form of t=
+he verb, not easily associated with the active meaning. In addition this is=
+ often used to remind the user that compounds of facio form the passive by =
+using the active of fio.  Ex: calefio (calefacio PASS). There may be more t=
+ranslation information in the base word cited and the user is encouraged to=
+ refer to it.</td>
+    </tr>
+    <tr>
+      <td>perh.</td>
+      <td>perhaps</td>
+      <td>denotes an additional uncertainty, but not as strong as (?).</td>
+    </tr>
+    <tr>
+      <td>(pl.)</td>
+      <td>plural</td>
+      <td>means that the Latin word is believed by scholars to be used (alm=
+ost) always in the plural form, with the meaning stated, even though that m=
+eaning in English may be singular.  If it appears in the beginning of the m=
+eaning, before the first comma, it applies to all the meanings.  If it appe=
+ars later, it applies only to that and later meanings.  For the purpose of =
+this program, this is only advisory.  While it is used by some tools to fin=
+d the expected dictionary entry, the program does not necessarily exclude a=
+ singular form in the output.  While it may be true that in good, classical=
+ Latin it is never used in the singular, this does not mean that some text =
+somewhere might not use the singular, nor that it is uncommon in later Lati=
+n. The TRIM_OUTPUT option may cause only plural forms to appear, with no TR=
+IM_OUTPUT the singular will be shown.</td>
+    </tr>
+    <tr>
+      <td>prob.</td>
+      <td>probably</td>
+      <td>denotes some uncertainty, but not as much as (perh.).</td>
+    </tr>
+    <tr>
+      <td>pure Latin =E2=80=A6</td>
+      <td>&nbsp;</td>
+      <td>indicates a pure Latin term for a word which is derived from anot=
+her language (almost certainly Greek).</td>
+    </tr>
+    <tr>
+      <td>(rude)</td>
+      <td>&nbsp;</td>
+      <td>indicates that this meaning was used in a rude, vulgar, coarse, o=
+r obscene manner, not what one should hear in polite company.  Such use is =
+likely from graffiti or epigrams, or in plays in which the dialogue is to i=
+ndicate that the characters are low or crude.  Meanings given by the progra=
+m for these words are more polite, and the user is invited to substitute th=
+e current street language or obscenity of his choice to get the flavor of t=
+ext.</td>
+    </tr>
+    <tr>
+      <td>(sg.)</td>
+      <td>singular</td>
+      <td>means that the Latin word is believed by scholars to be used alwa=
+ys in the singular.  If it appears in the beginning of the meaning, before =
+the first comma, it applies to all the meanings.  If it appears later, it a=
+pplies only to that and later meanings.  For the purpose of this program, t=
+his is only advisory.</td>
+    </tr>
+    <tr>
+      <td>usu.</td>
+      <td>usually</td>
+      <td>is weakly advisory.  (usu.  pl.) is even weaker than (pl.) and ma=
+y imply that the plural tendency occurred only during certain periods.</td>
+    </tr>
+    <tr>
+      <td>w/</td>
+      <td>&nbsp;</td>
+      <td>means =E2=80=98with=E2=80=99.</td>
+    </tr>
+  </tbody>
+</table>
+
+</section>
+
+
+=20
+=20
+
+
+</body></html>
+------MultipartBoundary--AvQhhXlkiJqq039YQGkmvsRUQynyI8b3jniWz1ut7d----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-4f1e377d-9862-49bf-98ab-6a06f0b89991@mhtml.blink
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--AvQhhXlkiJqq039YQGkmvsRUQynyI8b3jniWz1ut7d----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-1329b3ed-700b-4997-8c46-e26d69b4250e@mhtml.blink
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--AvQhhXlkiJqq039YQGkmvsRUQynyI8b3jniWz1ut7d----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-3d89271b-876c-43d8-a421-069fa5d3d602@mhtml.blink
+
+@charset "utf-8";
+
+.jfk-bubble.gtx-bubble, .captcheck_answer_label > input + img, span#closed_=
+text > img[src^=3D"https://www.gstatic.com/images/branding/googlelogo"], sp=
+an[data-href^=3D"https://www.hcaptcha.com/"] > #icon, img.Wirisformula { fi=
+lter: invert(100%) hue-rotate(180deg) contrast(90%) !important; }
+------MultipartBoundary--AvQhhXlkiJqq039YQGkmvsRUQynyI8b3jniWz1ut7d----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-e5014141-8187-4f33-80e9-dc0d04dfc18d@mhtml.blink
+
+@charset "utf-8";
+
+[data-darkreader-inline-bgcolor] { background-color: var(--darkreader-inlin=
+e-bgcolor) !important; }
+
+[data-darkreader-inline-bgimage] { background-image: var(--darkreader-inlin=
+e-bgimage) !important; }
+
+[data-darkreader-inline-border] { border-color: var(--darkreader-inline-bor=
+der) !important; }
+
+[data-darkreader-inline-border-bottom] { border-bottom-color: var(--darkrea=
+der-inline-border-bottom) !important; }
+
+[data-darkreader-inline-border-left] { border-left-color: var(--darkreader-=
+inline-border-left) !important; }
+
+[data-darkreader-inline-border-right] { border-right-color: var(--darkreade=
+r-inline-border-right) !important; }
+
+[data-darkreader-inline-border-top] { border-top-color: var(--darkreader-in=
+line-border-top) !important; }
+
+[data-darkreader-inline-boxshadow] { box-shadow: var(--darkreader-inline-bo=
+xshadow) !important; }
+
+[data-darkreader-inline-color] { color: var(--darkreader-inline-color) !imp=
+ortant; }
+
+[data-darkreader-inline-fill] { fill: var(--darkreader-inline-fill) !import=
+ant; }
+
+[data-darkreader-inline-stroke] { stroke: var(--darkreader-inline-stroke) !=
+important; }
+
+[data-darkreader-inline-outline] { outline-color: var(--darkreader-inline-o=
+utline) !important; }
+
+[data-darkreader-inline-stopcolor] { stop-color: var(--darkreader-inline-st=
+opcolor) !important; }
+
+[data-darkreader-inline-bg] { background: var(--darkreader-inline-bg) !impo=
+rtant; }
+
+[data-darkreader-inline-invert] { filter: invert(100%) hue-rotate(180deg); }
+------MultipartBoundary--AvQhhXlkiJqq039YQGkmvsRUQynyI8b3jniWz1ut7d----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-48eb95b2-916f-4b78-9d14-f3b7a13458ce@mhtml.blink
+
+@charset "utf-8";
+
+:root { --darkreader-neutral-background: #181a1b; --darkreader-neutral-text=
+: #e8e6e3; --darkreader-selection-background: #004daa; --darkreader-selecti=
+on-text: #e8e6e3; }
+------MultipartBoundary--AvQhhXlkiJqq039YQGkmvsRUQynyI8b3jniWz1ut7d----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-16db379a-65ce-4023-994b-323f2b652794@mhtml.blink
+
+@charset "utf-8";
+
+:root { }
+------MultipartBoundary--AvQhhXlkiJqq039YQGkmvsRUQynyI8b3jniWz1ut7d----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-f4f0bedc-64ce-4ed3-8a37-a22ae51b2365@mhtml.blink
+
+@charset "utf-8";
+
+@layer {
+  html { background-color: rgb(24, 26, 27) !important; }
+  html { color-scheme: dark !important; }
+  iframe { color-scheme: dark !important; }
+  html, body { background-color: rgb(24, 26, 27); }
+  html, body { border-color: rgb(115, 107, 94); color: rgb(232, 230, 227); =
+}
+  a { color: rgb(51, 145, 255); }
+  table { border-color: rgb(84, 91, 94); }
+  mark { color: rgb(232, 230, 227); }
+  ::placeholder { color: rgb(178, 171, 161); }
+  input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofil=
+l { background-color: rgb(64, 68, 0) !important; color: rgb(232, 230, 227) =
+!important; }
+  * { scrollbar-color: rgb(69, 74, 77) rgb(32, 35, 36); }
+  ::selection { background-color: rgb(0, 77, 170) !important; color: rgb(23=
+2, 230, 227) !important; }
+}
+------MultipartBoundary--AvQhhXlkiJqq039YQGkmvsRUQynyI8b3jniWz1ut7d----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-808d204a-414f-4bfd-8524-847eb212ca3f@mhtml.blink
+
+@charset "utf-8";
+
+a { background-color: transparent; }
+
+a:active, a:hover { outline-color: initial; }
+
+abbr[title] { border-bottom-color: initial; }
+
+mark { background-image: initial; background-color: rgb(153, 153, 0); color=
+: rgb(232, 230, 227); }
+
+img { border-width: 0px; border-style: initial; border-color: initial; }
+
+button, input, optgroup, select, textarea { color: inherit; }
+
+fieldset { border-color: rgb(66, 71, 74); }
+
+legend { border-width: 0px; border-style: initial; border-color: initial; }
+------MultipartBoundary--AvQhhXlkiJqq039YQGkmvsRUQynyI8b3jniWz1ut7d----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-1409f188-b4c3-4e02-9185-2f296efee7be@mhtml.blink
+
+@charset "utf-8";
+
+body { color: rgb(166, 158, 147); }
+
+a { color: rgb(101, 172, 230); text-decoration-color: initial; }
+
+a:hover { text-decoration-color: initial; }
+
+.btn { color: rgba(232, 230, 227, 0.7); background-color: rgba(24, 26, 27, =
+0.08); border-color: rgba(48, 52, 54, 0.2); }
+
+.btn:hover { color: rgba(232, 230, 227, 0.8); text-decoration-color: initia=
+l; background-color: rgba(24, 26, 27, 0.2); border-color: rgba(48, 52, 54, =
+0.3); }
+
+.page-header { color: rgb(232, 230, 227); background-color: rgb(17, 122, 70=
+); background-image: linear-gradient(120deg, rgb(17, 70, 122), rgb(17, 122,=
+ 70)); }
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .ma=
+in-content h5, .main-content h6 { color: rgb(103, 234, 169); }
+
+.main-content code { color: rgb(194, 188, 180); background-color: rgb(29, 3=
+1, 32); }
+
+.main-content pre { color: rgb(164, 156, 144); background-color: rgb(29, 31=
+, 32); border-color: rgb(35, 59, 82); }
+
+.main-content pre > code { color: rgb(164, 156, 144); background-image: ini=
+tial; background-color: transparent; border-width: 0px; border-style: initi=
+al; border-color: initial; }
+
+.main-content pre code, .main-content pre tt { background-color: transparen=
+t; border-width: 0px; border-style: initial; border-color: initial; }
+
+.main-content blockquote { color: rgb(160, 151, 139); border-left-color: rg=
+b(35, 59, 82); }
+
+.main-content table th, .main-content table td { border-color: rgb(54, 58, =
+61); }
+
+.main-content hr { background-color: rgb(32, 35, 37); border-width: 0px; bo=
+rder-style: initial; border-color: initial; }
+
+.site-footer { border-top-color: rgb(52, 57, 59); }
+
+.site-footer-credits { color: rgb(160, 151, 139); }
+------MultipartBoundary--AvQhhXlkiJqq039YQGkmvsRUQynyI8b3jniWz1ut7d----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-750ea215-e6ab-4327-b516-36f1ccff9ef7@mhtml.blink
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--AvQhhXlkiJqq039YQGkmvsRUQynyI8b3jniWz1ut7d----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-e4ba77a7-8124-4478-94a7-22e5016b6089@mhtml.blink
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--AvQhhXlkiJqq039YQGkmvsRUQynyI8b3jniWz1ut7d----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-fa68efef-8dac-46fc-8cf8-1ba4ee7deaf8@mhtml.blink
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--AvQhhXlkiJqq039YQGkmvsRUQynyI8b3jniWz1ut7d----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-24812bdb-1ae4-4cb2-bf86-195dbcde60e0@mhtml.blink
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--AvQhhXlkiJqq039YQGkmvsRUQynyI8b3jniWz1ut7d----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-f971dd18-1452-4d45-b42d-3518c8c2847c@mhtml.blink
+
+@charset "utf-8";
+
+.vimvixen-hint { background-color: rgb(104, 75, 0) !important; border-color=
+: rgb(158, 126, 0) !important; color: rgb(215, 212, 207) !important; }
+
+#vimvixen-console-frame { color-scheme: light !important; }
+
+::placeholder { opacity: 0.5 !important; }
+
+#edge-translate-panel-body, .MuiTypography-body1, .nfe-quote-text { color: =
+var(--darkreader-neutral-text) !important; }
+
+gr-main-header { background-color: rgb(27, 73, 88) !important; }
+
+.tou-z65h9k, .tou-mignzq, .tou-1b6i2ox, .tou-lnqlqk { background-color: var=
+(--darkreader-neutral-background) !important; }
+
+.tou-75mvi { background-color: rgb(15, 58, 71) !important; }
+
+.tou-ta9e87, .tou-1w3fhi0, .tou-1b8t2us, .tou-py7lfi, .tou-1lpmd9d, .tou-1f=
+rrtv8, .tou-17ezmgn { background-color: rgb(30, 32, 33) !important; }
+
+.tou-uknfeu { background-color: rgb(67, 44, 9) !important; }
+
+.tou-6i3zyv { background-color: rgb(36, 93, 112) !important; }
+
+div.mermaid-viewer-control-panel .btn { background-color: var(--darkreader-=
+neutral-background); fill: var(--darkreader-neutral-text); }
+
+svg g rect.er { fill: var(--darkreader-neutral-background) !important; }
+
+svg g rect.er.entityBox { fill: var(--darkreader-neutral-background) !impor=
+tant; }
+
+svg g rect.er.attributeBoxOdd { fill: var(--darkreader-neutral-background) =
+!important; }
+
+svg g rect.er.attributeBoxEven { fill: var(--darkreader-selection-backgroun=
+d); fill-opacity: 0.8 !important; }
+
+svg rect.er.relationshipLabelBox { fill: var(--darkreader-neutral-backgroun=
+d) !important; }
+
+svg g g.nodes rect, svg g g.nodes polygon { fill: var(--darkreader-neutral-=
+background) !important; }
+
+svg g rect.task { fill: var(--darkreader-selection-background) !important; =
+}
+
+svg line.messageLine0, svg line.messageLine1 { stroke: var(--darkreader-neu=
+tral-text) !important; }
+
+div.mermaid .actor { fill: var(--darkreader-neutral-background) !important;=
+ }
+
+mitid-authenticators-code-app > .code-app-container { background-color: whi=
+te !important; padding-top: 1rem; }
+
+iframe#unpaywall[src$=3D"unpaywall.html"] { color-scheme: light !important;=
+ }
+
+embed[type=3D"application/pdf"][src=3D"about:blank"] { filter: invert(100%)=
+ contrast(90%); }
+------MultipartBoundary--AvQhhXlkiJqq039YQGkmvsRUQynyI8b3jniWz1ut7d----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://mk270.github.io/whitakers-words/css/normalize.css
+
+@charset "utf-8";
+
+html { font-family: sans-serif; text-size-adjust: 100%; }
+
+body { margin: 0px; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, =
+menu, nav, section, summary { display: block; }
+
+audio, canvas, progress, video { display: inline-block; vertical-align: bas=
+eline; }
+
+audio:not([controls]) { display: none; height: 0px; }
+
+[hidden], template { display: none; }
+
+a { background-color: transparent; }
+
+a:active, a:hover { outline: 0px; }
+
+abbr[title] { border-bottom: 1px dotted; }
+
+b, strong { font-weight: bold; }
+
+dfn { font-style: italic; }
+
+h1 { font-size: 2em; margin: 0.67em 0px; }
+
+mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+
+small { font-size: 80%; }
+
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-ali=
+gn: baseline; }
+
+sup { top: -0.5em; }
+
+sub { bottom: -0.25em; }
+
+img { border: 0px; }
+
+svg:not(:root) { overflow: hidden; }
+
+figure { margin: 1em 40px; }
+
+hr { box-sizing: content-box; height: 0px; }
+
+pre { overflow: auto; }
+
+code, kbd, pre, samp { font-family: monospace, monospace; font-size: 1em; }
+
+button, input, optgroup, select, textarea { color: inherit; font: inherit; =
+margin: 0px; }
+
+button { overflow: visible; }
+
+button, select { text-transform: none; }
+
+button, html input[type=3D"button"], input[type=3D"reset"], input[type=3D"s=
+ubmit"] { appearance: button; cursor: pointer; }
+
+button[disabled], html input[disabled] { cursor: default; }
+
+input { line-height: normal; }
+
+input[type=3D"checkbox"], input[type=3D"radio"] { box-sizing: border-box; p=
+adding: 0px; }
+
+input[type=3D"number"]::-webkit-inner-spin-button, input[type=3D"number"]::=
+-webkit-outer-spin-button { height: auto; }
+
+input[type=3D"search"] { appearance: textfield; box-sizing: content-box; }
+
+input[type=3D"search"]::-webkit-search-cancel-button, input[type=3D"search"=
+]::-webkit-search-decoration { appearance: none; }
+
+fieldset { border: 1px solid rgb(192, 192, 192); margin: 0px 2px; padding: =
+0.35em 0.625em 0.75em; }
+
+legend { border: 0px; padding: 0px; }
+
+textarea { overflow: auto; }
+
+optgroup { font-weight: bold; }
+
+table { border-collapse: collapse; border-spacing: 0px; }
+
+td, th { padding: 0px; }
+------MultipartBoundary--AvQhhXlkiJqq039YQGkmvsRUQynyI8b3jniWz1ut7d----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://fonts.googleapis.com/css?family=Open+Sans:400,700
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--AvQhhXlkiJqq039YQGkmvsRUQynyI8b3jniWz1ut7d----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://mk270.github.io/whitakers-words/css/stylesheet.css
+
+@charset "utf-8";
+
+* { box-sizing: border-box; }
+
+body { padding: 0px; margin: 0px; font-family: "Open Sans", "Helvetica Neue=
+", Helvetica, Arial, sans-serif; font-size: 16px; line-height: 1.5; color: =
+rgb(96, 108, 113); }
+
+a { color: rgb(30, 107, 184); text-decoration: none; }
+
+a:hover { text-decoration: underline; }
+
+.btn { display: inline-block; margin-bottom: 1rem; color: rgba(255, 255, 25=
+5, 0.7); background-color: rgba(255, 255, 255, 0.08); border-color: rgba(25=
+5, 255, 255, 0.2); border-style: solid; border-width: 1px; border-radius: 0=
+.3rem; transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
+
+.btn + .btn { margin-left: 1rem; }
+
+.btn:hover { color: rgba(255, 255, 255, 0.8); text-decoration: none; backgr=
+ound-color: rgba(255, 255, 255, 0.2); border-color: rgba(255, 255, 255, 0.3=
+); }
+
+@media screen and (min-width: 64em) {
+  .btn { padding: 0.75rem 1rem; }
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .btn { padding: 0.6rem 0.9rem; font-size: 0.9rem; }
+}
+
+@media screen and (max-width: 42em) {
+  .btn { display: block; width: 100%; padding: 0.75rem; font-size: 0.9rem; =
+}
+  .btn + .btn { margin-top: 1rem; margin-left: 0px; }
+}
+
+.page-header { color: rgb(255, 255, 255); text-align: center; background-co=
+lor: rgb(21, 153, 87); background-image: linear-gradient(120deg, rgb(21, 87=
+, 153), rgb(21, 153, 87)); }
+
+@media screen and (min-width: 64em) {
+  .page-header { padding: 5rem 6rem; }
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .page-header { padding: 3rem 4rem; }
+}
+
+@media screen and (max-width: 42em) {
+  .page-header { padding: 2rem 1rem; }
+}
+
+.project-name { margin-top: 0px; margin-bottom: 0.1rem; }
+
+@media screen and (min-width: 64em) {
+  .project-name { font-size: 3.25rem; }
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .project-name { font-size: 2.25rem; }
+}
+
+@media screen and (max-width: 42em) {
+  .project-name { font-size: 1.75rem; }
+}
+
+.project-tagline { margin-bottom: 2rem; font-weight: normal; opacity: 0.7; =
+}
+
+@media screen and (min-width: 64em) {
+  .project-tagline { font-size: 1.25rem; }
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .project-tagline { font-size: 1.15rem; }
+}
+
+@media screen and (max-width: 42em) {
+  .project-tagline { font-size: 1rem; }
+}
+
+.main-content :first-child { margin-top: 0px; }
+
+.main-content img { max-width: 100%; }
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .ma=
+in-content h5, .main-content h6 { margin-top: 2rem; margin-bottom: 1rem; fo=
+nt-weight: normal; color: rgb(21, 153, 87); }
+
+.main-content p { margin-bottom: 1em; }
+
+.main-content code { padding: 2px 4px; font-family: Consolas, "Liberation M=
+ono", Menlo, Courier, monospace; font-size: 0.9rem; color: rgb(56, 62, 65);=
+ background-color: rgb(243, 246, 250); border-radius: 0.3rem; }
+
+.main-content pre { padding: 0.8rem; margin-top: 0px; margin-bottom: 1rem; =
+font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace; color: r=
+gb(86, 116, 130); overflow-wrap: normal; background-color: rgb(243, 246, 25=
+0); border: 1px solid rgb(220, 230, 240); border-radius: 0.3rem; }
+
+.main-content pre > code { padding: 0px; margin: 0px; font-size: 0.9rem; co=
+lor: rgb(86, 116, 130); word-break: normal; white-space: pre; background: t=
+ransparent; border: 0px; }
+
+.main-content .highlight { margin-bottom: 1rem; }
+
+.main-content .highlight pre { margin-bottom: 0px; word-break: normal; }
+
+.main-content .highlight pre, .main-content pre { padding: 0.8rem; overflow=
+: auto; font-size: 0.9rem; line-height: 1.45; border-radius: 0.3rem; }
+
+.main-content pre code, .main-content pre tt { display: inline; max-width: =
+initial; padding: 0px; margin: 0px; overflow: initial; line-height: inherit=
+; overflow-wrap: normal; background-color: transparent; border: 0px; }
+
+.main-content pre code::before, .main-content pre code::after, .main-conten=
+t pre tt::before, .main-content pre tt::after { content: normal; }
+
+.main-content ul, .main-content ol { margin-top: 0px; }
+
+.main-content blockquote { padding: 0px 1rem; margin-left: 0px; color: rgb(=
+129, 145, 152); border-left: 0.3rem solid rgb(220, 230, 240); }
+
+.main-content blockquote > :first-child { margin-top: 0px; }
+
+.main-content blockquote > :last-child { margin-bottom: 0px; }
+
+.main-content table { display: block; width: 100%; overflow: auto; word-bre=
+ak: keep-all; }
+
+.main-content table th { font-weight: bold; }
+
+.main-content table th, .main-content table td { padding: 0.5rem 1rem; bord=
+er: 1px solid rgb(233, 235, 236); }
+
+.main-content dl { padding: 0px; }
+
+.main-content dl dt { padding: 0px; margin-top: 1rem; font-size: 1rem; font=
+-weight: bold; }
+
+.main-content dl dd { padding: 0px; margin-bottom: 1rem; }
+
+.main-content hr { height: 2px; padding: 0px; margin: 1rem 0px; background-=
+color: rgb(239, 240, 241); border: 0px; }
+
+@media screen and (min-width: 64em) {
+  .main-content { max-width: 64rem; padding: 2rem 6rem; margin: 0px auto; f=
+ont-size: 1.1rem; }
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .main-content { padding: 2rem 4rem; font-size: 1.1rem; }
+}
+
+@media screen and (max-width: 42em) {
+  .main-content { padding: 2rem 1rem; font-size: 1rem; }
+}
+
+.site-footer { padding-top: 2rem; margin-top: 2rem; border-top: 1px solid r=
+gb(239, 240, 241); }
+
+.site-footer-owner { display: block; font-weight: bold; }
+
+.site-footer-credits { color: rgb(129, 145, 152); }
+
+@media screen and (min-width: 64em) {
+  .site-footer { font-size: 1rem; }
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .site-footer { font-size: 1rem; }
+}
+
+@media screen and (max-width: 42em) {
+  .site-footer { font-size: 0.9rem; }
+}
+------MultipartBoundary--AvQhhXlkiJqq039YQGkmvsRUQynyI8b3jniWz1ut7d------
